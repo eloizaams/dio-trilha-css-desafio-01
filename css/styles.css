@@ -124,7 +124,8 @@ h2 {
   background-image: url("../img/woman-code.png");
   background-attachment: fixed;
   background-size: cover;
-  border: 1px solid #33a8db;
+  border-top: 1px solid #33a8db;
+  border-bottom: 1px solid #33a8db;
   padding: 200px;
 }
 #transform-world p {
